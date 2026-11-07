@@ -1,0 +1,14 @@
+/* Anishop — editor styles */
+body#wp-content-editor-area,
+.mce-content-body {
+	font-family: Vazirmatn, "Segoe UI", Tahoma, sans-serif;
+	font-size: 15px;
+	line-height: 1.9;
+	color: #334155;
+	background: #f6f7fb;
+}
+
+.mce-content-body h1, .mce-content-body h2, .mce-content-body h3 {
+	color: #0f172a;
+	font-weight: 800;
+}
